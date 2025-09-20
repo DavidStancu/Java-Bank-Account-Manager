@@ -69,7 +69,7 @@ or TransactionFactory needs to build a certain output or node, they will use thi
 
 ## Overview
 This assignment if a continuation of the last assignment, which consists in bringing new changes to our banking
-simulator. Due to time mismanagement from my part, the changes brought forward are few :[
+simulator.
 
 ## Changes and additions
 ## Single issue classes
@@ -105,5 +105,6 @@ certain number of payments
 * Builder pattern - for incrementally building the output
 * Factory pattern - for building the Credit Cards, Accounts and Transaction nodes
 * Strategy pattern - for implementing the cashback strategies
+
 
 
